@@ -1,3 +1,3 @@
 # Dauxtest
 
-this is yet another test
+this is test 2
